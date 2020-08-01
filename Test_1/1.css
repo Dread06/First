@@ -1,0 +1,48 @@
+.p1 {
+    color: #393939;
+    padding: 40px 50px 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 22px;
+    text-align: justify;
+    border-right-style: solid;
+    border-right-width: 0px;
+    margin-right: 400px;
+
+}
+.h {
+    color: black;
+    float: left;
+    text-align: left;
+    padding: 10px 30px;
+    font-size: 28px;
+}
+.fotostyle {
+    align: "right"
+
+}
+body {
+    background-color: antiquewhite;
+    border-color: #f2f2f2;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background: rgba(239, 207, 174, 0.53);
+    color: black;
+}
